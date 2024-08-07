@@ -2,7 +2,7 @@
 <br>
 <p align="center"><img src="https://github.com/user-attachments/assets/621465d5-e1f7-46b7-83d6-8c7b7da681b7">
   
-<h1 align="center">Hi 👋, I'm I'm Lee Da-eun
+<h1 align="center"> 👋 Hi, I'm I'm Lee Da-eun 👋
 <h3 align="center"> who wants to become a developer, <br> who knows how to use code.</h3>
 <h3 align="center">I am a creative developer who communicates and has a clear direction.</h3>
 <hr>
