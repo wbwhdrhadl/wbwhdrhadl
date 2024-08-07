@@ -62,3 +62,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wbwhdrhadl&show_icons=true&locale=en" alt="wbwhdrhadl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wbwhdrhadl&" alt="wbwhdrhadl" /></p>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daeunrhadl)](https://solved.ac/daeunrhadl)
