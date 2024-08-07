@@ -57,6 +57,13 @@
 - 🥈 스타트업 메이크업대회 우수상(성신여자대학교)_킥보드 음주측정기 개발 및 수상
 
 <hr>
+
+<h3 align="left">Career</h3>
+
+- 🏆 동북고등학교 코딩 수업 (2023.03.22	~	2023.09.01)
+
+<hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wbwhdrhadl&show_icons=true&locale=en&layout=compact" alt="wbwhdrhadl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wbwhdrhadl&show_icons=true&locale=en" alt="wbwhdrhadl" /></p>
