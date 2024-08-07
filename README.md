@@ -3,7 +3,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/621465d5-e1f7-46b7-83d6-8c7b7da681b7">
   
 <h1 align="center">Hi 👋, I'm I'm Lee Da-eun
-<h1 align="center"> who wants to become a developer, <br> who knows how to use code.</h1>
+<h3 align="center"> who wants to become a developer, <br> who knows how to use code.</h3>
 <h3 align="center">I am a creative developer who communicates and has a clear direction.</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wbwhdrhadl&label=Profile%20views&color=0e75b6&style=flat" alt="wbwhdrhadl" /> </p>
@@ -21,7 +21,7 @@
 <hr>
 
 <h3 align="left">Connect with me: </h3>
-- 20211378@sungshin.ac.kr 
+- ✉️ 20211378@sungshin.ac.kr 
 <hr>
 <p align="left">
 </p>
