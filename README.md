@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fa96135d-ffea-4afc-b238-e9a3bc30f430" alt="Face Image" style="border-radius: 50% / 50%; width: 170px; height: 250px; object-fit: cover;">
-</p>
-
-
 <h1 align="center">Hi 👋, I'm I'm Lee Da-eun<hr>
 <h1 align="center"> who wants to become a developer, <br> who knows how to use code.</h1>
 <h3 align="center">I am a creative developer who communicates and has a clear direction.</h3>
