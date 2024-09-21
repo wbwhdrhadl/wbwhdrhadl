@@ -40,13 +40,15 @@
 <hr>
 <h3 align="left">Certifications obtained</h3>
 
-- 🦊 SQLD (한국데이터산업진흥원)
-
-- 🐷 AI-900 (Microsoft)
-
-- 🐼 AZ-900 (Microsoft)
+- 🐸 리눅스마스터2급 (한국정보통신진흥협회) 2024.10.04
   
-- 🦁 AWS Certified Cloud Practitioner (Amazon)
+- 🦁 AWS Certified Cloud Practitioner (Amazon) 2024.08.02
+
+- 🐼 AZ-900 (Microsoft) 2024.07.10
+
+- 🦊 SQLD (한국데이터산업진흥원) 2024.06.21
+
+- 🐷 AI-900 (Microsoft) 2024.05.17
   
 <hr>
 
